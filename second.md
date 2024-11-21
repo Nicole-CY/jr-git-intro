@@ -1,1 +1,1 @@
-This is the second file for the jr-git-intro repository.
+Different change in second.md: Master branch update
