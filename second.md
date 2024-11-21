@@ -1,1 +1,1 @@
-This is the second file for the jr-git-intro repository.
+Updated line: Bugfix changes in second.md
