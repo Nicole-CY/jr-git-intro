@@ -1,1 +1,1 @@
-Different change in second.md: Master branch update
+Updated line: Bugfix changes in second.md
